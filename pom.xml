@@ -19,7 +19,7 @@
         <maven.war.plugin.version>3.3.1</maven.war.plugin.version>
         <ojdbc.version>21.7.0.0</ojdbc.version>
         <log4j.api.version>2.13.0</log4j.api.version>
-        <log4j.core.version>2.13.0</log4j.core.version>
+        <log4j.core.version>2.17.1</log4j.core.version>
         <commons.lang3.version>3.12.0</commons.lang3.version>
         <lombok.version>1.18.24</lombok.version>
         <mockito.version>1.10.19</mockito.version>
